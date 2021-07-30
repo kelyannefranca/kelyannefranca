@@ -1,7 +1,7 @@
 <h1> Hi, I am Kelyanne França</h1>
 <h2> Welcome to my GitHub. I hope you enjoy ! </h2>
 
-I have 22 years old, and I have studied and worked with technology area since 18 years,
+I have 22 years old, and I have studied and worked with technology area since 18 years old,
 starting with technical support for systems (ERP), and right now i am working with programming (Delphi). But,
 before start with programming,I went already tester (quality assurance(QA)).
 
